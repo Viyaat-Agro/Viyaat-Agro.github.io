@@ -9,8 +9,7 @@ main:
 
 about:
   title: "About us"
-  desc: ""
-  image: "assets/img/ipad.png"
+  desc: "lorem epsum"
 
 projects:
   card1:
