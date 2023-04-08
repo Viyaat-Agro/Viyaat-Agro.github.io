@@ -1,5 +1,7 @@
 baseURL = 'https://viyaatagro.com/'
 languageCode = 'en-us'
+publishDir = 'docs'
+
 theme = 'graysx'
 title = 'Viyaat Agro'
 
