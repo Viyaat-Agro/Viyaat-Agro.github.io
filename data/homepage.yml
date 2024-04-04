@@ -5,22 +5,36 @@ main:
     description : ""
     button:
       text: "Learn More"
+      url: "https://www.linkedin.com/company/viyaat-consultancy/about/"
 
 
 about:
   title: "About us"
-  desc: "lorem epsum"
+  desc: "Cultivating hope, Feeding the world, Redefining Agriculture."
 
 projects:
   card1:
-    title: "Viyaat"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    title: "Viyaat Agro"
+    text: "India's agricultural tapestry: diverse, vibrant, and resilient. Viyaat is a leading agriculture production company with a mission to redefine farming practices for a sustainable future. With technology and management team of dedicated experts, we specialize in the cultivation and processing of high-quality agricultural products."
     img: "assets/img/back.jpeg"
   card2:
-    title: "Viyaat Agro"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/tractor.jpeg"
+    title: "Our Approach"
+    text: 
+      | 
+      <ul>
+      <li><b>Sustainability</b>: At Viyaat, sustainability is at the core of everything we do. We prioritize eco-friendly practices, water conservation, soil health, and biodiversity preservation to minimize our environmental footprint and promote long-term viability.</li>
+      <li><b>Innovation</b>: We embrace innovation and technology to optimize farming operations, enhance productivity, and improve crop resilience against climate change and other challenges.</li>
+      <li><b>Partnerships</b>: We believe in the power of collaboration. We work closely with researchers and industry partners to foster mutual growth, knowledge exchange, and community development. Together, we build a stronger, more resilient agricultural ecosystem.</li>
+      </ul>
+
+    img: "assets/img/flower.jpg"
   card3:
-    title: "Viyaat Agro"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/about-us.jpeg"
+    title: "Our Commitment"
+    text: 
+      |
+      <ul>
+      <li><b>Quality Assurance</b>: Quality is our top priority. We adhere to stringent quality control measures at every stage of production, from seed selection to harvesting, processing, and packaging, ensuring that our products meet the highest standards of safety, purity, and freshness.</li>
+      <li><b>Customer Satisfaction</b>: We are committed to delivering exceptional value and service to our customers. Whether you are a wholesaler, retailer, or consumer, we strive to exceed your expectations with premium products, competitive prices, and reliable delivery.</li>
+      <li><b>Social Responsibility</b>: Beyond business, we are dedicated to making a positive impact on society. We support local communities, promote fair practices, and contribute to initiatives that enhance food security, education, and rural development.</li>
+      </ul>
+    img: "assets/img/flower-farm.jpg"
