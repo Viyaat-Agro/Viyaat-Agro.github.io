@@ -4070,7 +4070,7 @@ textarea.form-control-lg {
   color: #50817e;
 }
 .nav-link.disabled {
-  color: #6c757d;
+  color: #dddddd;
   pointer-events: none;
   cursor: default;
 }
@@ -4173,7 +4173,6 @@ textarea.form-control-lg {
 }
 .navbar-brand img{
   height: 5rem;
-  filter: drop-shadow(10px 10px 0.75rem white);
 }
 
 .navbar-nav {
@@ -11497,7 +11496,7 @@ body {
   padding: 0.9rem 0;
 }
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(#fff, 80%);
+  color: fade(#000, 80%);
   outline: none;
   background-color: transparent;
 }
@@ -11515,21 +11514,21 @@ body {
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(50, 50, 50, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(50, 50, 50, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(50, 50, 50, 0.5);
   }
   #mainNav .nav-link:active {
-    color: #fff;
+    color: rgba(50, 50, 50, 0.5);
   }
   #mainNav.navbar-shrink {
-    background-color: #000;
+    background-color: #eee;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000;
